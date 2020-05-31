@@ -18,7 +18,7 @@ I'm primarily interested in two applications of technology to education. I've pu
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/transcend.jpeg" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/transcend.jpeg" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://www.transcendeducation.org/"><strong>Transcend Education</strong></a><br><i>Data and Research Intern (Summer 2020-Current)</i><ul>
@@ -33,7 +33,7 @@ I'm primarily interested in two applications of technology to education. I've pu
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/harvard.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/harvard.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://cepr.harvard.edu/"><strong>Center For Education and Policy Research</strong></a><br><i>Researcher (Fall 2019 - Winter 2020)</i><ul>
@@ -48,7 +48,7 @@ I'm primarily interested in two applications of technology to education. I've pu
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/harvard.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/harvard.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://github.com/alex-kj-chin/early_identification"><strong>Early Identification: A Tool for the Harvard Computer Science Department</strong></a><p> The Harvard CS Department has been increasing support for struggling students via course Patel Fellows, whose only responsibility is to help struggling students in the course. However, through conversations with existing Patel Fellows, I found that many Patel Fellows were unsure how to identify struggling students, and an open invitation for assistance was usually taken by students already doing fine in the course (in other words, struggling students often do not know how to advocate for themselves). I built a simple tool to identify struggling students using previous assignement scores and ran a team in CS 181 providing support to struggling students. I am currently constructing a white paper to analyze the external validity of this program and suggest its department-wide adoption.</p></div>
@@ -60,7 +60,7 @@ I'm primarily interested in two applications of technology to education. I've pu
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/sfusd.jpeg" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/sfusd.jpeg" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://www.sfusd.edu/"><strong>San Francisco Unified School District</strong></a><br><i>Research Intern (Summer 2020-Current)</i><ul>

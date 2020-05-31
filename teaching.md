@@ -13,7 +13,7 @@ nav-menu: true
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/computer.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/computer.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://alex-kj-chin.github.io/theoryprep/"><strong>TheoryPrep</strong></a><br><i>Founder, Course Head</i><ul>
@@ -29,7 +29,7 @@ nav-menu: true
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/harvard.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/harvard.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://harvard-ml-courses.github.io/cs181-web/"><strong>CS 181: Machine Learning</strong></a><br><i>Teaching Fellow (Spring 2019), Future Head Teaching Fellow</i><ul>
@@ -45,7 +45,7 @@ nav-menu: true
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/harvard.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/harvard.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://cs121.boazbarak.org/"><strong>CS 121: Introduction to Theoretical Computer Science</strong></a><br><i>Teaching Fellow (Fall 2019)</i><ul>
@@ -61,7 +61,7 @@ nav-menu: true
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/first.jpg" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/first.jpg" alt=""></div>
     <div style="
     flex: 5 1 0;
 "><a href="https://cs121.boazbarak.org/"><strong>FIRST Robotics</strong></a><br><i>Mentor to FLL and FRC Teams</i><ul>

@@ -16,7 +16,7 @@ I've learned my technical skills through various internships during the summers 
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/crim.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/crim.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://www.thecrimson.com/"><strong>The Harvard Crimson Technology Board</strong></a><br><i>Chair (Fall 2017-Current)</i><ul>
@@ -32,7 +32,7 @@ I've learned my technical skills through various internships during the summers 
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/harvard.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/harvard.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://finale.seas.harvard.edu/"><strong>Data to Actionable Knowledge Group (under Professor Finale Doshi-Velez)</strong></a><br><i>Researcher (Spring 2020-Current)</i><ul>
@@ -47,7 +47,7 @@ I've learned my technical skills through various internships during the summers 
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/akuna.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/akuna.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://akunacapital.com/"><strong>Akuna Capital</strong></a><br><i>Quantitative Development Intern (Summer 2019)</i><ul>
@@ -62,7 +62,7 @@ I've learned my technical skills through various internships during the summers 
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/capitalone.jpg" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/capitalone.jpg" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://www.capitalone.com/"><strong>Capital One</strong></a><br><i>Software Engineering Intern (Winter 2019)</i><ul>
@@ -77,7 +77,7 @@ I've learned my technical skills through various internships during the summers 
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/hcs.svg" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/hcs.svg" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="http://www.hcs.harvard.edu/"><strong>Harvard Computer Society</strong></a><br><i>Technology Chair (Spring 2019 - Fall 2019)</i><ul>
@@ -92,7 +92,7 @@ I've learned my technical skills through various internships during the summers 
     flex: 1 1 0;
     margin: auto;
     padding-right: 1em;
-"><img src="/forty-jekyll-theme/assets/images/dzdx.png" alt=""></div>
+"><img src="{{ site.baseurl }}/assets/images/dzdx.png" alt=""></div>
 	<div style="
     flex: 5 1 0;
 "><a href="https://www.dayzerodiagnostics.com/"><strong>Day Zero Diagnostics</strong></a><br><i>Software and Data Science Intern (Summer 2018)</i><ul>
