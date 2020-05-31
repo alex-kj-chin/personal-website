@@ -3,7 +3,7 @@ title: Alex Chin
 subtitle:
 email: alexanderchin@college.harvard.edu
 description: I'm interested in technology, eduction, accessibility, and their intersections.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/personal-website" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 
