@@ -75,6 +75,7 @@ nav-menu: true
 I believe that teaching a diversity of subjects in diverse environments really improves ones teaching ability. Below is a short list of some of the other (especially non-technical) places I've been lucky to teach and help develop curriculum at!
 
  - [Stanford D School](https://dschool.stanford.edu/)
+ - [Boston Latin School](https://www.bls.org/)
  - [Design Thinking Institute](https://www.nuevaschool.org/conferences-institutes/design-thinking)
  - [Bay Area Urban Debate League](https://www.baudl.org/)
  - [Victory Briefs Institute](https://www.vbidebate.com/)
